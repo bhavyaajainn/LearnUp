@@ -6,5 +6,6 @@ Features
 User-Friendly Interface: An intuitive and easy-to-navigate interface that enhances the learning experience.
 Wide Range of Courses: Access to various short courses covering different aspects of web development, including HTML, CSS, JavaScript, and more.
 
+Preview is added as a gif.
 
 
